@@ -2,7 +2,7 @@
   "name": "xipxat",
   "version": "1.0.0",
   "description": "realtime chat",
-  "main": "/src/index.js",
+  "main": "/index.js",
   "scripts": {
     "start": "node ./src/index.js"
   },
